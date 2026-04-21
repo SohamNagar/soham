@@ -1,0 +1,9 @@
+sets={1,2,3,4,5,6}
+print(sets[0:2])
+print(sets[3:-1])
+print(sets[3])
+print(sets[-1])
+print(len.sets)
+print(sets.count(1))
+sets.append(4)
+print(sets)

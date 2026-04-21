@@ -1,0 +1,5 @@
+a=float(input("Enter a number 1: "))
+b=float(input("Enter a number 2: "))
+print(a is b)
+print(a is not b)
+print(a==b)
